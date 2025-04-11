@@ -9,7 +9,7 @@ This project explores, analyzes, and visualizes sector-wise revenue expenditure 
 5. Analyze year-on-year changes in sector-wise revenue expenditure to detect growth patterns, stagnation, or shifts in spending priorities.
 
 ## 🛠️ Technologies Used
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
